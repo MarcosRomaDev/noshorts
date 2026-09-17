@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "NoShorts",
+  "version": "0.1.0",
+  "description": "Oculta los Shorts de YouTube sin peticiones de red.",
+  "host_permissions": [
+    "*://*.youtube.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.youtube.com/*"
+      ],
+      "css": [
+        "content.css"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ]
+}

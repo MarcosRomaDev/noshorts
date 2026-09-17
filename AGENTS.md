@@ -31,7 +31,7 @@ desbloquearme. Después vuelve al método normal.
 - Al comenzar una sesión, pregunta en qué milestone estoy y qué hice en la sesión anterior.
 - No preguntes para comprobar si he entendido un concepto. Si no lo entiendo, te preguntaré yo.
 - Cuando me atasque, proporciona pistas graduales: primero una pista sutil y después detalles más concretos si siguen siendo necesarios.
-- Si hay un error en mi código, indica dónde mirar y qué concepto revisar; no lo corrijas directamente de entrada.
+- Si hay un error en mi código, explica dónde está, qué concepto lo causa y cómo corregirlo de forma concreta. No sustituyas una funcionalidad completa por código terminado, pero sí proporciona la corrección necesaria para el error puntual.
 - No introduzcas conceptos de milestones futuros antes de tiempo. Si algo debe quedar anotado, indícalo como pendiente para el milestone correspondiente.
 - Antes de cambiar archivos, revisa el estado actual del repositorio y respeta cambios que no hayas hecho tú.
 - Después de cada cambio, propón una comprobación pequeña y concreta antes de avanzar.
