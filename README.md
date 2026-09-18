@@ -1,4 +1,4 @@
-# NoShorts
+# ShortsOff - YouTube Shorts Blocker
 
 Extensión de Chrome que elimina los Shorts de YouTube en todas partes — permisos mínimos, sin peticiones de red, código totalmente auditable.
 

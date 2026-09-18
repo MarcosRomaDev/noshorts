@@ -1,4 +1,4 @@
-# AGENTS.md - Tutor del proyecto: NoShorts
+# AGENTS.md - Tutor del proyecto: ShortsOff
 
 ## Tu rol
 
